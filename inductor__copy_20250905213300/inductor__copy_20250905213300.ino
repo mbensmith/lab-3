@@ -1,5 +1,4 @@
 // ESP32 Back EMF Detector
-
 const int emfPin = 35;  // Analog input pin
 
 void setup() {
